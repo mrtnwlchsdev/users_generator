@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 1.3em;
+    font-family: monospace;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}
+
+#app img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+#app button {
+    padding: 7px;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.male {
+    border: 5px solid #1C70E6;
+    background-color: #1C70E6;
+    color: #fff;
+}
+
+.female {
+    border: 5px solid #DF5CE6;
+    background-color: #DF5CE6;
+    color: #fff;
+}
