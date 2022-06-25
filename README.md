@@ -5,3 +5,11 @@ Basic Vue application
 - HTML
 - CSS
 - JavaScript (fetch)
+
+## Deploy
+
+    $ git clone https://github.com/mrtnwlchsdev/users_generator.git
+  
+    $ npm install
+  
+    $ npm run serve
