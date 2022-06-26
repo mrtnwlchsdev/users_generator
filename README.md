@@ -1,4 +1,4 @@
-# Random users generator
+# Random users generator 👤
 
 Basic Vue application
 - Vue.js 3 CDN
@@ -6,7 +6,7 @@ Basic Vue application
 - CSS
 - JavaScript (fetch)
 
-## Deploy
+## Deploy 🛠️
 
     $ git clone https://github.com/mrtnwlchsdev/users_generator.git
   
